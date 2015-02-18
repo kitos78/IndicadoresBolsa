@@ -1,0 +1,3 @@
+# IndicadoresBolsa
+
+versión inicial
